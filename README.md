@@ -6,12 +6,9 @@
 ## <h4 align="center"> 
 	🚧  Studying Web Devevloper 🚀 Em construção...  🚧
 </h4>
---------------------
-                   |
-### 🚀 HTML 5     |
-                   |
-### 🚀 CSS3       |
-                   |
-### 🚀 Javascript  |
-                   |
---------------------
+
+### 🚀 HTML 5 
+
+### 🚀 CSS3
+
+### 🚀 Javascript
