@@ -7,11 +7,11 @@
 	🚧  Studying Web Devevloper 🚀 Em construção...  🚧
 </h4>
 
-### 🚀 HTML 5 
+### 🚀 HTML5 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-### 🚀 CSS3
+### 🚀 CSS3 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-### 🚀 Javascript
+### 🚀 Javascript <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
@@ -20,4 +20,8 @@
 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/delucasB/)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/5571981703123?text=Ol%C3%A1,%20vim%20pelo%20Github)
-//<!--[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/@o_brunobarbosa/)-->
+
+
+
+
+
