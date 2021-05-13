@@ -1,16 +1,17 @@
-### Hi there 👋
+# Student Computer Science &#128187;
+# Trainee at InfoJr UFBA
 
-<!--
-**brunobarbosa17/brunobarbosa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <h4 align="center"> 
+	🚧  Studying Web Devevloper 🚀 Em construção...  🚧
+</h4>
+--------------------
+                   |
+### 🚀 HTML 5     |
+                   |
+### 🚀 CSS3       |
+                   |
+### 🚀 Javascript  |
+                   |
+--------------------
