@@ -4,7 +4,7 @@
 
 
 ## <h4 align="center"> 
-	🚧  Studying Web Devevloper 🚀 Em construção...  🚧
+	🚧  Studying web development 🚀 Em construção...  🚧
 </h4>
 
 ### 🚀 HTML5
