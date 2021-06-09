@@ -1,5 +1,6 @@
 # Student Computer Science &#128187;
 ## Trainee at InfoJr UFBA
+### Programação Full Stack at Cubos Academy
 
 
 
