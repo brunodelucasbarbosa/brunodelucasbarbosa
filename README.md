@@ -12,7 +12,7 @@
 
 <div style="display: inline_block"><br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobarbosa17)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobarbosa17&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobarbosa17&hide=html&layout=compact=true&theme=dark)](https://github.com/iuricode/) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobarbosa17&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
