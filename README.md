@@ -13,11 +13,12 @@
  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"> <img align="center" alt="Rafa-React" height="30" width="40" bgcolor="#336655" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+ <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"> <img align="center" class="teste" alt="Rafa-React" height="30" width="40" bgcolor="#336655" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
  
 </div>
-
+.teste {
+    background: #101010;
+}
 <div style="display: inline_block"><br>
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobarbosa17&hide=html&layout=compact=true&theme=dark)](https://github.com/iuricode/) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobarbosa17&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
