@@ -15,7 +15,9 @@
 
 <div style="display: inline_block"><br>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobarbosa17&hide=html&layout=compact=true&theme=dark)](https://github.com/iuricode/) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobarbosa17&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dracula)](https://github.com/brunobarbosa17/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobarbosa17&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
