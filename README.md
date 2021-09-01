@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=brunobarbosa17&color=006bed)
 
-# <h3> 🧒🏽 Hi, i am Bruno de Lucas ! </h3>
+### <h3> 🧒🏽 Hi, i am Bruno de Lucas ! </h3>
 
 ## - <3 I love **learning** and **teaching**.
 ## - 🎓 Student **Computer Science**  &#128187; at <a href="[link da sua faculdade](https://dcc.ufba.br/)">Federal University of Bahia</a>.
