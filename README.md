@@ -17,10 +17,7 @@
 
 </div>
 
-<div style="display: inline_block"><br>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dracula)](https://github.com/brunobarbosa17/)
-</div>
 
 <br>
 
