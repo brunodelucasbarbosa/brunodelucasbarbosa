@@ -1,7 +1,7 @@
 # <h1> 🧒🏽 Olá, me chamo Bruno de Lucas ! </h1>
 
 ### - ❤️ Apaixonado por tecnologias, aprender e ensinar.
-### - 🎓 Estudante de **Ciências da Computaão**  &#128187; na <a href="[link da sua faculdade](https://dcc.ufba.br/)">Universidade Federal da Bahia</a>.
+### - 🎓 Estudante de **Ciências da Computação**  &#128187; na <a href="[link da sua faculdade](https://dcc.ufba.br/)">Universidade Federal da Bahia</a>.
 ### - &#128187; **Dev. Full Stack** em formação pela Cubos Academy
 
 <div style="display: inline_block">
