@@ -2,9 +2,11 @@
 
 # <h1> 🧒🏽 Olá, me chamo Bruno de Lucas ! </h1>
 
+
+### - 👩🏾‍💻 Software Engineer at @iFood
 ### - ❤️ Apaixonado por tecnologias, aprender e ensinar.
 ### - 🎓 Estudante de **Ciências da Computação**  &#128187; na <a href="[link da sua faculdade](https://dcc.ufba.br/)">Universidade Federal da Bahia</a>.
-### - &#128187; **Dev. Full Stack** em formação pela Cubos Academy
+### - &#128187; **Dev. Full Stack** formado pela Cubos Academy
 ### - &#128187; **Pessoa Mentora Voluntária** no projeto <a href="[link da sua faculdade](https://educatransforma.com.br/)">educaTRANSforma</a>.
 <br>
 
