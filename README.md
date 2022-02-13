@@ -4,10 +4,10 @@
 
 
 - 👩🏾‍💻 Software Engineer at <a href="(https://carreiras.ifood.com.br/foodtech/)"><img align="center" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white"> </a>.
-- ❤️ Apaixonado por tecnologias, aprender e ensinar.
-- 🎓 Estudante de **Ciências da Computação**  &#128187; na <a href="(https://dcc.ufba.br/)">Universidade Federal da Bahia</a>.
-- &#128187; **Dev. Full Stack** formado pela Cubos Academy
-- &#128187; **Pessoa Mentora Voluntária** no projeto <a href="[link da sua faculdade](https://educatransforma.com.br/)">educaTRANSforma</a>.
+- ❤️ Love all about technologies, learning and teaching.
+- 🎓 **Computer Sciente** Student &#128187; at <a href="(https://dcc.ufba.br/)">Universidade Federal da Bahia</a>.
+- &#128187; **Software Engineer Full Stack** formed by <a href="(https://cubos.academy)">Cubos Academy</a> in partnership with iFood.
+- &#128187; **Volunteer Mentor** in the project <a href="(https://educatransforma.com.br/)">educaTRANSforma</a>.
 <br>
 
 
