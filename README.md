@@ -36,11 +36,11 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Top Langs" align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobarbosa17&hide=TeX&layout=compact&theme=tokyonight&border_color=61dafb&hide_border=true" />
+      <img alt="Top Langs" align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodelucasbarbosa&hide=TeX&layout=compact&theme=tokyonight&border_color=61dafb&hide_border=true" />
     </a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GitHub Metrics" align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=brunobarbosa17&theme=tokyonight&border=61dafb&hide_border=true"/>
+      <img alt="GitHub Metrics" align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=brunodelucasbarbosa&theme=tokyonight&border=61dafb&hide_border=true"/>
     </a>
 
