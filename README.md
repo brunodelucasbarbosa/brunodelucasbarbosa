@@ -10,6 +10,7 @@
 - &#128187; **Volunteer Mentor** in the project <a href="[https://educatransforma.com.br/](https://educatransforma.com.br/)">educaTRANSforma</a>.
 <br>
 
+<!---
 
 ## 🚧 🚀 My Skills: 👇🏽 🚧
 
@@ -27,6 +28,7 @@
 
 <br>
 <br>
+-->
 
 ## 👩‍💻 Contact me: 👇🏽 📞 📩
 
