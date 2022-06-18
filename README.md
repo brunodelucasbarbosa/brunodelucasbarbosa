@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/M2y4F85/github-header-image.png)
+# I am Bruno de Lucas!
 
 - 👩🏾‍💻 Software Engineer at <a href="(https://carreiras.ifood.com.br/foodtech/)"><img align="center" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white"> </a>.
 - ❤️ Love all about technologies, learning and teaching.
