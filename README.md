@@ -2,7 +2,8 @@
 
 ###
 
-<h2 align="center">👩🏾‍💻 Software Engineer at  @iFood<br>❤️ Love all about technologies, learning and teaching.<br>🎓 Computer Sciente Student 💻 at Universidade Federal da Bahia.<br>💻 Software Engineer Full Stack formed by Cubos Academy in partnership with iFood.</h2>
+<h2 align="center">👩🏾‍💻 Software Engineer Back-End & Mobile at  @iFood
+<br>❤️ Love all about technologies, learning and teaching.<br>🎓 Computer Sciente Student 💻 at Universidade Federal da Bahia.<br>💻 Software Engineer Full Stack formed by Cubos Academy in partnership with iFood.</h2>
 
 ###
 
