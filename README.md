@@ -3,7 +3,7 @@
 ###
 
 <h2 align="center">👩🏾‍💻 Software Engineer Back-End at  @iFood
-<br>❤️ Love all about technologies, learning and teaching.<br> Computer Sciente Student 💻 at Universidade Federal da Bahia. 🎓<br>
+<br>❤️ Love all about technologies, learning and teaching.<br> Computer Science Student 💻 at Universidade Federal da Bahia. 🎓<br>
 
 ###
 
