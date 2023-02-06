@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋! I am Bruno de Lucas</h1>
 
 ###
-
-<h2 align="center">👩🏾‍💻 Software Engineer Back-End at  @iFood
-<br>❤️ Love all about technologies, learning and teaching.<br> Computer Science Student 💻 at Universidade Federal da Bahia. 🎓<br>
+<h2 align="center">👩🏾‍💻 Software Engineer Back-End at  @iFood with principal focus on GoLang and Kotlin
+<br>❤️ Love all about technologies, learning and teaching.<br> Computer Science Student 💻 at <a href="https://bcc.ufba.br/" title="Hobbit lifestyles">Universidade Federal da Bahia. 🎓</a><br>
 
 ###
 
@@ -31,16 +30,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="150" src="https://c.tenor.com/SFd4oYw_RrQAAAAC/darth-vader-star-wars.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-![Snake animation](https://github.com/brunodelucasbarbosa/brunodelucasbarbosa/blob/output/github-contribution-grid-snake.svg)
-
-###
-
