@@ -1,1 +1,1 @@
-### NEWS IN COMING
+### NEWS IS COMING
